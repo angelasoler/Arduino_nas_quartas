@@ -1,7 +1,6 @@
-# Arduino_nas_quartas
-Encontro nas 42 as quartas feiras para brincar com o arduino.
+# Arduino nas quartas
+Encontro na 42 ás quartas feiras para brincar com o arduino.
 
-<h5>Primeiro encontro(31/05)<h5/>
+## Primeiro encontro (31/05)
+
   - Aprendendo conexões basicas com leds
-  
-  
