@@ -16,3 +16,5 @@ Encontro na 42 ás quartas feiras para brincar com o arduino.
   http://www.xlitx.com/Products/7-segment-led-dot-matrix/3461as.html
 
   https://osoyoo.com/2017/08/08/4-digit-7-segment-led-display/
+  
+  https://forum.arduino.cc/t/4-digit-7-segment-led-display-is-showing-each-digit-sequentially-not-all-at-once/645973
