@@ -6,7 +6,11 @@ Encontro na 42 ás quartas feiras para brincar com o arduino.
   - Aprendendo conexões basicas com leds
 
 ## Segundo encontro (07/06)
+  - Display de 7 segmentos
 
+![Circuit](display-7seg.png)
+https://www.tinkercad.com/things/lSsYbQbL1IN?sharecode=oHxNC3BFcI2GktoFQMZ3JMtzTMLvVoFHFK0qfRaSVlA
+  
   [_] Codar desafio: ligar segmentos de forma aleatorea
   
   links utils:
